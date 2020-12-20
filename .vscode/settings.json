@@ -1,3 +1,3 @@
 {
-    "python.pythonPath": "lyrics-env/bin/python"
+    "python.pythonPath": "/opt/anaconda3/envs/myenv/bin/python"
 }
