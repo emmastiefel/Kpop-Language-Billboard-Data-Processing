@@ -1,71 +1,71 @@
-Chart date[86],Artist,Song/Album Title,Peak position,Weeks on Chart
-2012-10-06,Psy,Gangnam Style[87],1,32
-2013-05-04,Psy,Gentleman[88],20,4
-2017-10-07,BTS,DNA[89],37,1
-2017-12-16,BTS feat. Desiigner,MIC Drop (Steve Aoki remix)[90],4,1
-2018-06-02,BTS,Fake Love[27],1 (Entered at #1 for 1 week),2
-2018-09-08,BTS feat. Nicki Minaj,Idol[31],1 (Entered at #1 for 1 week),1
-2018-11-03,Steve Aoki feat. BTS,Waste It on Me,14,2
-2018-11-03,Dua Lipa & Blackpink,Kiss and Make Up,18,1
-2018-11-17,"K/DA:[63] (G)I-dle's Miyeon & Soyeon, Madison Beer & Jaira Burns",Pop/Stars,30,1
-2018-11-24,BTS,2! 3!,47,1
-2019-04-20,Blackpink,Kill This Love[35],39,2
-2019-04-27,BTS feat. Halsey,Boy with Luv[36],3,3 (R) 4
-2019-04-27,BTS,Make It Right,13,1 (R) 4
-2019-04-28,BTS feat. Lauv,Make It Right remix,8,
-2019-04-27,BTS,Mikrokosmos,19,1
-2019-04-27,BTS,Home,21,1
-2019-04-27,BTS,Dionysus,28,1 (R) 2
-2019-04-27,BTS,Jamais Vu,32,1 (R) 2
-2019-04-27,BTS,Intro: Persona,34,1 (R) 2
-2019-06-22,BTS and Charli XCX,Dream Glow,10,1
-2019-06-29,BTS and Zara Larsson,A Brand New Day,25,1
-2019-07-06,BTS and Juice Wrld,All Night,19,1
-2019-07-13,BTS,Heartbeat,16,1
-2019-07-13,BTS,Lights,48,1
-2019-10-12,J-Hope feat. Becky G,Chicken Noodle Soup,9,1
-2019-12-14,Halsey & Suga & BTS,Suga's Interlude,10,2
-2020-01-18,Younha feat. RM,Winter Flower,30,1
-2020-02-01,BTS,Black Swan[39],2,1 (R) 2
-2020-03-07,BTS,On[40],1 (Entered at #1 for 1 week),2 (R) 3
-2020-03-07,BTS,My Time (solo by Jungkook),2,1 (R) 2
-2020-03-07,BTS,Filter (Jimin solo),4,1 (R) 4
-2020-03-07,BTS,"Friends (V, Jimin)",6,1
-2020-03-07,BTS,Louder Than Bombs,8,1
-2020-03-07,BTS,Inner Child (V solo),9,1
-2020-03-07,BTS,We Are Bulletproof: The Eternal,10,1
-2020-03-07,BTS,"Ugh! (RM, J-Hope, Suga)",13,1
-2020-03-07,BTS,"00:00 (Zero O'Clock) (Kim Seok-jin, V, Jimin, Jungkook)",16,1
-2020-03-07,BTS,Moon (solo by Kim Seok-jin),17,1
-2020-03-07,BTS,Interlude: Shadow (solo by Suga),19,1
-2020-03-07,BTS,Outro: Ego (solo by J-Hope),21,1
-2020-03-07,BTS,Respect (performed by RM and Suga),26,1
-2020-03-21,Lauv feat. BTS,Who,14,1
-2020-03-28,V,Sweet Night,2,1
-2020-05-16,IU feat. Suga,Eight,13,1
-2020-06-06,Suga (Agust D),Daechwita,2,1
-2020-06-06,Suga (Agust D) feat. RM,Strange,10,1
-2020-06-06,Suga (Agust D) feat. Max Schneider,Burn It,12,1
-2020-06-06,Suga (Agust D),What Do You Think?,13,1
-2020-06-06,Suga (Agust D),Moonlight,14,1
-2020-06-06,Suga (Agust D),People,16,1
-2020-06-06,Suga (Agust D) feat. Niihwa,28,19,1
-2020-06-06,Suga (Agust D) feat. Kim Jong-wan,Dear My Friend,20,1
-2020-06-06,Suga (Agust D),Interlude: Set Me Free,22,1
-2020-06-06,Suga (Agust D),Honsool,24,1
-2020-06-06,Lady Gaga and Blackpink,Sour Candy,10,3
-2020-07-04,BTS,Stay Gold,6,1
-2020-07-11,Blackpink,How You Like That,2,1
-2020-07-25,BTS,Your Eyes Tell,12,1
-2020-09-05,BTS,Dynamite[6][42][45][46][47][48][49],"1 (Entered at #1 for 9 weeks,",18
-2020-09-12,Blackpink and Selena Gomez,Ice Cream[50],2,3 (R) 4
-2020-09-12,K/DA: (G)I-dle & Wolftyla feat. Bea Miller,The Baddest,28,1
-2020-09-26,Max Schneider feat. Suga,Blueberry Eyes,22,1
-2020-10-17,Blackpink,Lovesick Girls,9,1
-2020-10-31,Verivery,G.B.T.B.,44,1
-2020-12-05,BTS,Life Goes On[43],1 (Entered at #1 for 3 weeks),4
-2020-12-05,BTS,Blue & Grey,2,2
-2020-12-05,BTS,Stay,3,1
-2020-12-05,BTS,Telepathy,4,1
-2020-12-05,BTS,Dis-ease,5,1
-2020-12-05,BTS,Fly to My Room,6,1
+,chart_date_sales,artist,song_title,peak_position_sales,chart_weeks_sales,main_artist,search_title
+0,2012-10-06,Psy,Gangnam Style,1,32,Psy,Gangnam Style
+1,2013-05-04,Psy,Gentleman,20,4,Psy,Gentleman
+2,2017-10-07,BTS,DNA,37,1,BTS,DNA
+3,2017-12-16,BTS feat. Desiigner,MIC Drop (Steve Aoki remix),4,1,BTS ,MIC Drop 
+4,2018-06-02,BTS,Fake Love,1,2,BTS,Fake Love
+5,2018-09-08,BTS feat. Nicki Minaj,Idol,1,1,BTS ,Idol
+6,2018-11-03,Steve Aoki feat. BTS,Waste It on Me,14,2,Steve Aoki ,Waste It on Me
+7,2018-11-03,Dua Lipa & Blackpink,Kiss and Make Up,18,1,Dua Lipa ,Kiss and Make Up
+8,2018-11-17,"K/DA: (G)I-dle's Miyeon & Soyeon, Madison Beer & Jaira Burns",Pop/Stars,30,1,K/DA: I-dle's Miyeon ,Pop/Stars
+9,2018-11-24,BTS,2! 3!,47,1,BTS,2! 3!
+10,2019-04-20,Blackpink,Kill This Love,39,2,Blackpink,Kill This Love
+11,2019-04-27,BTS feat. Halsey,Boy with Luv,3,3 (R) 4,BTS ,Boy with Luv
+12,2019-04-27,BTS,Make It Right,13,1 (R) 4,BTS,Make It Right
+13,2019-04-28,BTS feat. Lauv,Make It Right remix,8,,BTS ,Make It Right remix
+14,2019-04-27,BTS,Mikrokosmos,19,1,BTS,Mikrokosmos
+15,2019-04-27,BTS,Home,21,1,BTS,Home
+16,2019-04-27,BTS,Dionysus,28,1 (R) 2,BTS,Dionysus
+17,2019-04-27,BTS,Jamais Vu,32,1 (R) 2,BTS,Jamais Vu
+18,2019-04-27,BTS,Intro: Persona,34,1 (R) 2,BTS,Intro: Persona
+19,2019-06-22,BTS and Charli XCX,Dream Glow,10,1,BTS ,Dream Glow
+20,2019-06-29,BTS and Zara Larsson,A Brand New Day,25,1,BTS ,A Brand New Day
+21,2019-07-06,BTS and Juice Wrld,All Night,19,1,BTS ,All Night
+22,2019-07-13,BTS,Heartbeat,16,1,BTS,Heartbeat
+23,2019-07-13,BTS,Lights,48,1,BTS,Lights
+24,2019-10-12,J-Hope feat. Becky G,Chicken Noodle Soup,9,1,J-Hope ,Chicken Noodle Soup
+25,2019-12-14,Halsey & Suga & BTS,Suga's Interlude,10,2,Halsey ,Suga's Interlude
+26,2020-01-18,Younha feat. RM,Winter Flower,30,1,Younha ,Winter Flower
+27,2020-02-01,BTS,Black Swan,2,1 (R) 2,BTS,Black Swan
+28,2020-03-07,BTS,On,1,2 (R) 3,BTS,On
+29,2020-03-07,BTS,My Time (solo by Jungkook),2,1 (R) 2,BTS,My Time 
+30,2020-03-07,BTS,Filter (Jimin solo),4,1 (R) 4,BTS,Filter 
+31,2020-03-07,BTS,"Friends (V, Jimin)",6,1,BTS,Friends 
+32,2020-03-07,BTS,Louder Than Bombs,8,1,BTS,Louder Than Bombs
+33,2020-03-07,BTS,Inner Child (V solo),9,1,BTS,Inner Child 
+34,2020-03-07,BTS,We Are Bulletproof: The Eternal,10,1,BTS,We Are Bulletproof: The Eternal
+35,2020-03-07,BTS,"Ugh! (RM, J-Hope, Suga)",13,1,BTS,Ugh! 
+36,2020-03-07,BTS,"00:00 (Zero O'Clock) (Kim Seok-jin, V, Jimin, Jungkook)",16,1,BTS,00:00 
+37,2020-03-07,BTS,Moon (solo by Kim Seok-jin),17,1,BTS,Moon 
+38,2020-03-07,BTS,Interlude: Shadow (solo by Suga),19,1,BTS,Interlude: Shadow 
+39,2020-03-07,BTS,Outro: Ego (solo by J-Hope),21,1,BTS,Outro: Ego 
+40,2020-03-07,BTS,Respect (performed by RM and Suga),26,1,BTS,Respect 
+41,2020-03-21,Lauv feat. BTS,Who,14,1,Lauv ,Who
+42,2020-03-28,V,Sweet Night,2,1,V,Sweet Night
+43,2020-05-16,IU feat. Suga,Eight,13,1,IU ,Eight
+44,2020-06-06,Suga (Agust D),Daechwita,2,1,Suga ,Daechwita
+45,2020-06-06,Suga (Agust D) feat. RM,Strange,10,1,Suga  ,Strange
+46,2020-06-06,Suga (Agust D) feat. Max Schneider,Burn It,12,1,Suga  ,Burn It
+47,2020-06-06,Suga (Agust D),What Do You Think?,13,1,Suga ,What Do You Think?
+48,2020-06-06,Suga (Agust D),Moonlight,14,1,Suga ,Moonlight
+49,2020-06-06,Suga (Agust D),People,16,1,Suga ,People
+50,2020-06-06,Suga (Agust D) feat. Niihwa,28,19,1,Suga  ,28
+51,2020-06-06,Suga (Agust D) feat. Kim Jong-wan,Dear My Friend,20,1,Suga  ,Dear My Friend
+52,2020-06-06,Suga (Agust D),Interlude: Set Me Free,22,1,Suga ,Interlude: Set Me Free
+53,2020-06-06,Suga (Agust D),Honsool,24,1,Suga ,Honsool
+54,2020-06-06,Lady Gaga and Blackpink,Sour Candy,10,3,Lady Gaga ,Sour Candy
+55,2020-07-04,BTS,Stay Gold,6,1,BTS,Stay Gold
+56,2020-07-11,Blackpink,How You Like That,2,1,Blackpink,How You Like That
+57,2020-07-25,BTS,Your Eyes Tell,12,1,BTS,Your Eyes Tell
+58,2020-09-05,BTS,Dynamite,"1 (Entered at #1 for 9 weeks,",18,BTS,Dynamite
+59,2020-09-12,Blackpink and Selena Gomez,Ice Cream,2,3 (R) 4,Blackpink ,Ice Cream
+60,2020-09-12,K/DA: (G)I-dle & Wolftyla feat. Bea Miller,The Baddest,28,1,K/DA: I-dle ,The Baddest
+61,2020-09-26,Max Schneider feat. Suga,Blueberry Eyes,22,1,Max Schneider ,Blueberry Eyes
+62,2020-10-17,Blackpink,Lovesick Girls,9,1,Blackpink,Lovesick Girls
+63,2020-10-31,Verivery,G.B.T.B.,44,1,Verivery,G.B.T.B.
+64,2020-12-05,BTS,Life Goes On,1,4,BTS,Life Goes On
+65,2020-12-05,BTS,Blue & Grey,2,2,BTS,Blue & Grey
+66,2020-12-05,BTS,Stay,3,1,BTS,Stay
+67,2020-12-05,BTS,Telepathy,4,1,BTS,Telepathy
+68,2020-12-05,BTS,Dis-ease,5,1,BTS,Dis-ease
+69,2020-12-05,BTS,Fly to My Room,6,1,BTS,Fly to My Room
